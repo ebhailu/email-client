@@ -53,9 +53,3 @@ After building the project, run the executable:
 ```
 
 Follow the on-screen prompts to compose, send, search, or delete emails.
-
----
-
-## 👤 Author
-
-- **Ebenezer Hailu** – [LinkedIn](https://linkedin.com/in/ebenezer-hailu)
